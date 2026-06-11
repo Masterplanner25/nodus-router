@@ -7,7 +7,7 @@ rules. Resolves inbound messages to a `RouteMatch` containing the agent ID,
 a `SessionKey`, and the matched binding. No required external dependencies
 — pure stdlib with optional `nodus-session` integration.
 
-> **Status:** v0.1.0 — prepared, not yet published.
+> **Status:** v0.1.0 — published on [PyPI](https://pypi.org/project/nodus-router/).
 
 ---
 
